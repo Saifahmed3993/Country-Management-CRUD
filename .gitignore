@@ -1,0 +1,11 @@
+# Build output
+**/bin/
+**/obj/
+
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+
+# Local-only draft
+docs/linkedin-post-ar.md
